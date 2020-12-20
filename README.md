@@ -16,6 +16,7 @@
 ## More info
 
 ![](https://komarev.com/ghpvc/?username=Villager-B&color=brightgreen)
+[![](https://img.shields.io/badge/-ResearchLaboratory-000?style=flat&logo=google-scholar)](http://web.wakayama-u.ac.jp/~kazama/lab/)
 
 [![](https://img.shields.io/badge/-Python-000?style=flat&logo=python)](https://github.com/Villager-B)
 [![](https://img.shields.io/badge/-Jupyter-000?style=flat&logo=jupyter)](https://github.com/Villager-B)
