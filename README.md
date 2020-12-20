@@ -11,7 +11,7 @@
 - [note](https://note.com/shimasan)
 - [shima-stats](http://shima-stats.ddo.jp/)
   - [about](https://murabitoleg.com/vtuber-stats/)
- 
+- [NarouDaily](https://villager-b.github.io/NarouDaily/)
 
 ## More info
 
