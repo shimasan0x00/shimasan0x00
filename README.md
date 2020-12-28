@@ -14,7 +14,7 @@
 - [NarouDaily](https://villager-b.github.io/NarouDaily/)
 - [CovidEasyCheak](https://villager-b.github.io/CovidEasyCheak/)
   - Updated daily. 
-  - We are collecting data from the prefectures that are relevant to us.
+  - I'm collecting data from the prefectures that are relevant to me.
   - It is designed to be used as a shortcut for iOS/iPadOS.
 
 ## More info
