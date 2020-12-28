@@ -12,6 +12,9 @@
 - [shima-stats](http://shima-stats.ddo.jp/)
   - [about](https://murabitoleg.com/vtuber-stats/)
 - [NarouDaily](https://villager-b.github.io/NarouDaily/)
+- [CovidEasyCheak](https://villager-b.github.io/CovidEasyCheak/)
+  - Updated daily. 
+  - We are collecting data from the prefectures that are relevant to us.
 
 ## More info
 
