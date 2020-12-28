@@ -15,6 +15,7 @@
 - [CovidEasyCheak](https://villager-b.github.io/CovidEasyCheak/)
   - Updated daily. 
   - We are collecting data from the prefectures that are relevant to us.
+  - It is designed to be used as a shortcut for iOS/iPadOS.
 
 ## More info
 
