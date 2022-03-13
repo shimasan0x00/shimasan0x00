@@ -9,7 +9,7 @@
 ## Output
 - [blog(てくてくぷれいす)](https://murabitoleg.com/)
 - [note](https://note.com/shimasan)
-- [vsta(ぶいすたっ！)](https://share.streamlit.io/villager-b/vsta/vsta.py)
+- [vsta(ぶいすたっ！)](https://villager-b.github.io/vsta/)
   - VTuber stats and network visualization service
     - 統計，SNSを活用したネットワークの可視化
 - [NarouDaily](https://villager-b.github.io/NarouDaily/)
