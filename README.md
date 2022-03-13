@@ -1,6 +1,6 @@
 # Villager-B(Shimasan) Profile
 
-**Graduate students who like to analyze data**
+**human who like to analyze data**
 
 [![](https://raw.githubusercontent.com/Villager-B/Villager-B/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Villager-B/Villager-B/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -15,7 +15,7 @@
 - [NarouDaily](https://villager-b.github.io/NarouDaily/)
   - Updated daily. 
   - Get and update web novel statistics daily.
-- [CovidEasyCheak](https://villager-b.github.io/CovidEasyCheak/)
+- [CovidEasyCheck](https://villager-b.github.io/CovidEasyCheck/)
   - Updated daily. 
   - I'm collecting data from the prefectures that are relevant to me.
   - It is designed to be used as a shortcut for iOS/iPadOS.
