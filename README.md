@@ -33,5 +33,5 @@
 
 ## Social
 
-[![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/nitkcdadon)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nitkcdadon?label=Follow)](https://twitter.com/nitkcdadon)
+[![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/shimasan0x00)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nitkcdadon?label=Follow)](https://twitter.com/shimasan0x00)
