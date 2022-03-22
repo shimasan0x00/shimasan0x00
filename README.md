@@ -23,7 +23,7 @@
 ## More info
 
 ![](https://komarev.com/ghpvc/?username=Villager-B&color=brightgreen)
-[![](https://img.shields.io/badge/-ResearchLaboratory-000?style=flat&logo=google-scholar)](http://web.wakayama-u.ac.jp/~kazama/lab/)
+<!-- [![](https://img.shields.io/badge/-ResearchLaboratory-000?style=flat&logo=google-scholar)](http://web.wakayama-u.ac.jp/~kazama/lab/) -->
 
 [![](https://img.shields.io/badge/-Python-000?style=flat&logo=python)](https://github.com/Villager-B)
 [![](https://img.shields.io/badge/-Jupyter-000?style=flat&logo=jupyter)](https://github.com/Villager-B)
@@ -34,4 +34,4 @@
 ## Social
 
 [![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/shimasan0x00)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nitkcdadon?label=Follow)](https://twitter.com/shimasan0x00)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shimasan0x00?label=Follow)](https://twitter.com/shimasan0x00)
