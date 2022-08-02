@@ -9,12 +9,12 @@
 ## Output
 - [blog(てくてくぷれいす)](https://murabitoleg.com/)
 - [note](https://note.com/shimasan)
-- [vsta(ぶいすたっ！)](https://villager-b.github.io/vsta/)
+- [vsta(ぶいすたっ！)](https://villager-b-vsta-vsta-tsgt3d.streamlitapp.com/)
   - VTuber stats and network visualization service
     - 統計，SNSを活用したネットワークの可視化
 - [altXiv News](https://altxiv.murabitoleg.com/)
   - A service that introduces hot arXiv preprints
-    - 前の週に投稿されたaeXivのプレプリントからオルトメトリクスを計測し，社会的に注目されているプレプリントを見るサービス
+    - 1ヶ月前までに投稿されたaeXivのプレプリントからオルトメトリクスを計測し，社会的に注目されているプレプリントを見るサービス
 - [NarouDaily](https://villager-b.github.io/NarouDaily/)
   - Updated daily. 
   - Get and update web novel statistics daily.
