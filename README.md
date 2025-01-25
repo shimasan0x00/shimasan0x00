@@ -29,6 +29,10 @@ In my free time, I enjoy collecting data from social media and playing games �
 ## Output
 - [blog: てくてくぷれいす](https://murabitoleg.com/)
 - [note](https://note.com/shimasan)
+- [CursorRulesHub](https://villager-b.github.io/cursorruleshub/)
+  - A platform where you can search and reference Cursor's .cursorrules files.
+    - Cursorの.cursorrulesファイルを検索・参照できるプラットフォーム
+    - 他の開発者の設定を参考にして、効率的にCursorの設定をカスタマイズすることができるようになる
 - [vsta: ぶいすたっ！](https://villager-b-vsta-vsta-tsgt3d.streamlitapp.com/)
   - VTuber stats and network visualization service
     - 統計，SNSを活用したネットワークの可視化
