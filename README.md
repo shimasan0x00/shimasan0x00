@@ -33,6 +33,9 @@ In my free time, I enjoy collecting data from social media and playing games �
   - A platform where you can search and reference Cursor's .cursorrules files.
     - Cursorの.cursorrulesファイルを検索・参照できるプラットフォーム
     - 他の開発者の設定を参考にして、効率的にCursorの設定をカスタマイズすることができるようになる
+- [📊 SortLabX](https://villager-b.github.io/SortLabX/)
+  - A Sorting Algorithm Visualization Tool
+    - ソートアルゴリズムの可視化ツール
 - [vsta: ぶいすたっ！](https://villager-b-vsta-vsta-tsgt3d.streamlitapp.com/)
   - VTuber stats and network visualization service
     - 統計，SNSを活用したネットワークの可視化
