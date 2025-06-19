@@ -1,15 +1,15 @@
 # 🧑‍💻 About shimasan0x00
-![](https://komarev.com/ghpvc/?username=Villager-B&color=brightgreen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=shimasan0x00&color=brightgreen&style=flat-square)
 
 I am a data engineer working in Japan.
 
 In my free time, I enjoy collecting data from social media and playing games 📊🎮 .
 
 ## Overview
-![](https://raw.githubusercontent.com/Villager-B/Villager-B/main/profile-summary-card-output/gotham/0-profile-details.svg)
-![](https://raw.githubusercontent.com/Villager-B/Villager-B/main/profile-summary-card-output/gotham/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Villager-B/Villager-B/main/profile-summary-card-output/gotham/2-most-commit-language.svg)
-![](https://github-profile-trophy.vercel.app/?username=Villager-B&theme=matrix&no-bg=true&no-frame=true&column=5)
+![](https://raw.githubusercontent.com/shimasan0x00/shimasan0x00/main/profile-summary-card-output/gotham/0-profile-details.svg)
+![](https://raw.githubusercontent.com/shimasan0x00/shimasan0x00/main/profile-summary-card-output/gotham/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/shimasan0x00/shimasan0x00/main/profile-summary-card-output/gotham/2-most-commit-language.svg)
+![](https://github-profile-trophy.vercel.app/?username=shimasan0x00&theme=matrix&no-bg=true&no-frame=true&column=5)
 
 ## My Skills
 
@@ -29,14 +29,14 @@ In my free time, I enjoy collecting data from social media and playing games �
 ## Output
 - [blog: てくてくぷれいす](https://murabitoleg.com/)
 - [note](https://note.com/shimasan)
-- [CursorRulesHub](https://villager-b.github.io/cursorruleshub/)
+- [CursorRulesHub](https://shimasan0x00.github.io/cursorruleshub/)
   - A platform where you can search and reference Cursor's .cursorrules files.
     - Cursorの.cursorrulesファイルを検索・参照できるプラットフォーム
     - 他の開発者の設定を参考にして、効率的にCursorの設定をカスタマイズすることができるようになる
-- [📊 SortLabX](https://villager-b.github.io/SortLabX/)
+- [📊 SortLabX](https://shimasan0x00.github.io/SortLabX/)
   - A Sorting Algorithm Visualization Tool
     - ソートアルゴリズムの可視化ツール
-- [vsta: ぶいすたっ！](https://villager-b-vsta-vsta-tsgt3d.streamlitapp.com/)
+- [vsta: ぶいすたっ！](https://shimasan0x00-vsta-vsta-tsgt3d.streamlitapp.com/)
   - VTuber stats and network visualization service
     - 統計，SNSを活用したネットワークの可視化
 
