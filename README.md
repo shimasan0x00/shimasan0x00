@@ -14,7 +14,8 @@ In my free time, I enjoy collecting data from social media and playing games �
 ## My Skills
 
 ![](https://img.shields.io/badge/airflow-000000?style=flat&logo=apacheairflow)
-![](https://img.shields.io/badge/aws-000000?style=flat&logo=amazonwebservices)
+![](https://img.shields.io/badge/aws-000000?style=flat&logo=amazonaws)
+![](https://img.shields.io/badge/azure-000000?style=flat&logo=azure)
 ![](https://img.shields.io/badge/dbt-000000?style=flat&logo=dbt)
 ![](https://img.shields.io/badge/docker-000000?style=flat&logo=docker)
 ![](https://img.shields.io/badge/git-000000?style=flat&logo=git)
@@ -24,21 +25,23 @@ In my free time, I enjoy collecting data from social media and playing games �
 ![](https://img.shields.io/badge/python-000000?style=flat&logo=python)
 ![](https://img.shields.io/badge/redshift-000000?style=flat&logo=amazon-redshift)
 ![](https://img.shields.io/badge/regex-000000?style=flat&logo=iterm2)
+![](https://img.shields.io/badge/snowflake-000000?style=flat&logo=snowflake)
 ![](https://img.shields.io/badge/terraform-000000?style=flat&logo=terraform)
 
 ## Output
 - [blog: てくてくぷれいす](https://murabitoleg.com/)
-- [note](https://note.com/shimasan)
 - [CursorRulesHub](https://shimasan0x00.github.io/cursorruleshub/)
   - A platform where you can search and reference Cursor's .cursorrules files.
-    - Cursorの.cursorrulesファイルを検索・参照できるプラットフォーム
-    - 他の開発者の設定を参考にして、効率的にCursorの設定をカスタマイズすることができるようになる
+    - You can search and browse Cursor's .cursorrules files on this platform.
+    - By referring to other developers' settings, you can efficiently customize your own Cursor configuration.
+    - *Updates have been suspended as of the end of May 2025.*
 - [📊 SortLabX](https://shimasan0x00.github.io/SortLabX/)
   - A Sorting Algorithm Visualization Tool
-    - ソートアルゴリズムの可視化ツール
 - [vsta: ぶいすたっ！](https://shimasan0x00-vsta-vsta-tsgt3d.streamlitapp.com/)
   - VTuber stats and network visualization service
-    - 統計，SNSを活用したネットワークの可視化
+    - Visualization of statistics and networks using social media data
+    - *Currently, hosting with Streamlit is suspended.*
+- For other projects, please check my pinned repositories on GitHub.
 
 ## 📨 Contact me.
 
